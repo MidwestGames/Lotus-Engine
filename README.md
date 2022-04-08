@@ -6,9 +6,9 @@ This is the Lotus Engine. At least my version, if there are any other engines ou
 I am developing this mainly because I can. I have studied a decent amount of Java and would like to work in the game development sector. I have no idea how game engines work, so I have started the Lotus Engine project.
 
 ### DISCLAIMER
-**This is following a tutorial on Youtube (https://www.youtube.com/watch?v=VyKE7vz65rY&list=PLtrSb4XxIVbp8AKuEAlwNXDxr99e3woGE by GamesWithGabe). All credit to the code goes to them, but I am more in it to learn how it works. If this is an issue as well for any parties involved, please let me know and I will immediately remove it. 
+** This is following a tutorial on Youtube (https://www.youtube.com/watch?v=VyKE7vz65rY&list=PLtrSb4XxIVbp8AKuEAlwNXDxr99e3woGE by GamesWithGabe). All credit to the code goes to them, but I am more in it to learn how it works. If this is an issue as well for any parties involved, please let me know and I will immediately remove it. 
 
-I CANNOT STRESS ENOUGH, THIS IS NOT FOR COMMERCIAL USE, ONLY AS A LEARNING PROJECT FOR ME, AND FOR ME TO USE FOR MY OWN PERSONAL PROJECTS!!!**
+I CANNOT STRESS ENOUGH, THIS IS NOT FOR COMMERCIAL USE, ONLY AS A LEARNING PROJECT FOR ME, AND FOR ME TO USE FOR MY OWN PERSONAL PROJECTS!!! **
 
 ### PROGRESS
 As of writing, there is a basic shader engine set up, and that is about it. This project will be continued until it is done.
